@@ -27,10 +27,10 @@ export const Contact = () => {
   };
 
   const socialLinks = [
-    { name: 'GitHub', icon: '⚪', url: '#' },
-    { name: 'LinkedIn', icon: '💼', url: '#' },
-    { name: 'Twitter', icon: '𝕏', url: '#' },
-    { name: 'Email', icon: '✉️', url: 'mailto:seu@email.com' },
+    { name: 'GitHub', icon: '⚪', url: 'https://github.com/AlessandroSampaio843' },
+    { name: 'LinkedIn', icon: '💼', url: 'https://www.linkedin.com/in/alessandro-sampaio-599ab922b' },
+    { name: 'Instagram', icon: '📸', url: 'https://www.instagram.com/ale_sampaio_sa?igsh=dnY5dmFweTZ4b2to&utm_source=qr' },
+    { name: 'Email', icon: '✉️', url: 'mailto:alessandrosampaio843@gmail.com' },
   ];
 
   return (
